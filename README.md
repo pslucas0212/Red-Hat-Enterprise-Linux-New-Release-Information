@@ -6,8 +6,8 @@
 ### Red Hat Enterprise Linux Product Documentation
 - [Product Documentation for Red Hat Enterprise Linux 9](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9)
 - [Product Documentation for Red Hat Enterprise Linux 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8)
-- [Product Documentation for Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7)
-- [Product Documentation for Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6)
+- [Product Documentation for Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7) - Maintanence support endes - 30 June 2024
+- [Product Documentation for Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6) - End of all support - 30 June 2024
 
 ### Red Hat Enterprise Linux 9.3 and 8.9
 - [Unite flexibility and manageability with Red Hat Enterprise Linux 9.3 and 8.9](https://www.redhat.com/en/blog/rhel-93-and-89)
