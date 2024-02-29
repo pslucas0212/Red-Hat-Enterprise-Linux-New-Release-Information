@@ -1,6 +1,7 @@
 # Red Hat Enterprise Linux New Release Information
 
-[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
+[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)  
+[Table of Contents - Red Hat Enterprise Linux](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Table-of-Contents)
 
 ### Red Hat Enterprise Linux 9.3 and 8.9
 - [Unite flexibility and manageability with Red Hat Enterprise Linux 9.3 and 8.9](https://www.redhat.com/en/blog/rhel-93-and-89)
