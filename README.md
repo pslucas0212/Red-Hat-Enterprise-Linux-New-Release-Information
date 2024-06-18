@@ -9,6 +9,11 @@
 - [Product Documentation for Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7) - Maintanence support ends - 30 June 2024
 - [Product Documentation for Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6) - ELS ends - 30 June 2024
 
+### Red Hat Enterprise Linux 9.4 and 8.10 Release Information
+- [What's New in Red Hat Enterprise Linux 9.4 and 8.10](https://www.youtube.com/watch?v=A9wwklwvTx4) - YouTube presentation
+- [8.10 Release Notes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/8.10_release_notes/index)
+- [9.4 Release Notes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.4_release_notes/index)
+ 
 ### Red Hat Enterprise Linux 9.4 and 8.10 Beta
 - [Explore new capabilities in Red Hat Enterprise Linux 9.4 and 8.10 beta releases](https://www.redhat.com/en/blog/explore-new-capabilities-red-hat-enterprise-linux-94-and-810-beta-releases) - Note that 8.10 will be the last point release of RHEL 8.x before it enters its maintenance phase.
 
