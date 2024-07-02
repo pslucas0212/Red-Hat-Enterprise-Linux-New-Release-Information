@@ -45,6 +45,8 @@
 - [Security features in Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/security-features-red-hat-enterprise-linux-9)
 - [RHEL 9 networking: Say goodbye to ifcfg-files, and hello to keyfiles](https://www.redhat.com/en/blog/rhel-9-networking-say-goodbye-ifcfg-files-and-hello-keyfiles)
 
+### Red Hat Enterprise Linux 8.10
+- [Optimize application life cycles with Red Hat Enterprise Linux 8.10[]()](https://www.redhat.com/en/blog/optimize-application-life-cycles-red-hat-enterprise-linux-810)  
 ### Red Hat Enterprise Linux 8.9
 - [Standardize while delivering flexibility with Red Hat Enterprise Linux 8.9](https://www.redhat.com/en/blog/standardize-while-delivering-flexibility-red-hat-enterprise-linux-89)
 - [Release Notes for Red Hat Enterprise Linux 8.9](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.9_release_notes/index?extIdCarryOver=true&sc_cid=7013a000003SwyjAAC)
