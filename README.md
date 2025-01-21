@@ -18,6 +18,7 @@
 - [9.4 Release Notes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.4_release_notes/index)
  
 ### Red Hat Enterprise Linux 9.4 and 8.10 Beta
+- [Upcoming improvements to Red Hat Enterprise Linux minor release betas](https://www.redhat.com/en/blog/upcoming-improvements-red-hat-enterprise-linux-minor-release-betas)
 - [Explore new capabilities in Red Hat Enterprise Linux 9.4 and 8.10 beta releases](https://www.redhat.com/en/blog/explore-new-capabilities-red-hat-enterprise-linux-94-and-810-beta-releases) - Note that 8.10 will be the last point release of RHEL 8.x before it enters its maintenance phase.
 
 ### Red Hat Enterprise Linux 9.3 and 8.9
