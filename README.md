@@ -9,6 +9,9 @@
 - [Product Documentation for Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7) - Maintanence support ends - 30 June 2024
 - [Product Documentation for Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6) - ELS ends - 30 June 2024
 
+  ### Red Hat Enterprise Linux 9.6 Release Information
+- [What's new in Red Hat Enterprise Linux 9.6?](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-96)
+
 ### Red Hat Enterprise Linux 9.5 Release Information
 - [Tame complexity with Red Hat Enterprise Linux 9.5](https://www.redhat.com/en/blog/red-hat-enterprise-linux-95-release)
 
