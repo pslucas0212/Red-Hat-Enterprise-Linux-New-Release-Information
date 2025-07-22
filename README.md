@@ -6,8 +6,8 @@
 ### Red Hat Enterprise Linux Product Documentation
 - [Product Documentation for Red Hat Enterprise Linux 9](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9) - Maintanence support ends - 31 May 2032
 - [Product Documentation for Red Hat Enterprise Linux 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8) - Maintanence support ends - 31 May 2029
-- [Product Documentation for Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7) - Maintanence support ends - 30 June 2024
-- [Product Documentation for Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6) -  Red Hat Enterprise Linux 6 Extended Life Cycle Support Long-Life Add-On Term 4 ends on ends December 31, 2026
+- [Product Documentation for Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7) - ELS ends - 31 May 2029
+- [Product Documentation for Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6) -  Red Hat Enterprise Linux 6 Extended Life Cycle Support Long-Life Add-On Term 4 ends on ends 31 December 31 2026
 
   ### Red Hat Enterprise Linux 9.6 Release Information
 - [What's new in Red Hat Enterprise Linux 9.6?](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-96)
